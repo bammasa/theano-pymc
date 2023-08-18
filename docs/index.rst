@@ -2,7 +2,7 @@
 The Car Wash Industry
 =====================
 
-The car wash industry spans across numerous business models and technological innovations. This article provides an overview of the various facets of the industry.
+The `car wash industry <https://mongooseim.readthedocs.io/en/latest/>`_ spans across numerous business models and technological innovations. This article provides an overview of the various facets of the industry.
 
 Types of Car Washes
 ===================

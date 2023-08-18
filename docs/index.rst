@@ -10,7 +10,7 @@ Types of Car Washes
 - **Automatic or Tunnel Wash**
     Cars are placed on a conveyor and move through a tunnel where they are washed, waxed, and dried by machines.
 
-- **`Self-Service Car Wash <https://www.auto.or.id/>`_**
+- `Self-Service Car Wash <https://www.auto.or.id/>`_
     Customers rent a bay and use high-pressure wands to wash and rinse their cars themselves.
 
 - **Hand Wash**
@@ -65,6 +65,7 @@ The industry is dotted with many operators, but notable chains in the U.S. inclu
     - Mister Car Wash
     - Autobell Car Wash
     - Wash Depot
+    - `Touchless car wash <https://www.knot35.com/toplist/discover-10-must-try-touchless-car-wash-in-houston-tx-for-unmatched-service/>`_
 
 Regulations
 ===========

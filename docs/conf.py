@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "Car Wash Project"
+copyright = "2023, Automobile core team"
+author = "Automobile core team"
 
 
 # -- General configuration ---------------------------------------------------
